@@ -1,0 +1,2 @@
+rootProject.name = "JSONSerialization"
+include ':app'
